@@ -1,0 +1,15 @@
+threshold = 0.99  # The threshold that indicates the similarity to the template image
+path = "screenshot.png"  # The path
+path2 = "realtime.png"
+# windowTile = "ÒõÑôÊ¦-ÍøÒ×ÓÎÏ·"  # The name of onmyoji app window
+windowTile = "WeChat Beta"
+mouse_movement_duration_min = 0.55
+mouse_movement_duration_max = 1.25
+mouse_click_duration_min = 0.15
+mouse_click_duration_max = 0.35
+hwnd = 984708
+click_startBtn_times_min = 2
+click_startBtn_times_max = 4
+click_when_finish_times_min = 2
+click_when_finish_times_max = 5
+timeout = 60
